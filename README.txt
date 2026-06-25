@@ -1,1 +1,1 @@
-100 sections included. Replace each with memories, photos, letters, playlists, etc.
+Replace or add more photos in /images and reference them from gallery.html
