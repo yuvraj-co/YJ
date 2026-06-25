@@ -1,0 +1,1 @@
+const start=new Date('2026-05-17T00:00:00');function t(){const n=new Date(),d=n-start;counter.innerHTML='<h2>'+Math.floor(d/86400000)+' days '+(Math.floor(d/36e5)%24)+'h '+(Math.floor(d/6e4)%60)+'m '+(Math.floor(d/1e3)%60)+'s</h2>';}setInterval(t,1000);t();
